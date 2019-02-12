@@ -6,7 +6,7 @@
 # survey respondents along with their preferred social networking site and an estimate
 # of how many times they log in per week
 
-# Create data frame 'sn' from CSV file with heades
+# Create data frame 'sn' from CSV file with headers
 sn <- read.csv("social_network.csv", header = T)
 
 # R doesn't create bar charts directly from the categorical variables; instead, we must
