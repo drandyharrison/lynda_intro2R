@@ -1,6 +1,6 @@
 # Up and Running with R
 # Ex03_05
-# Calculating descriptives
+# Calculating descriptive statistics
 
 # Uses data set 'social_network.csv' which records the gender anda age of 202 online
 # survey respondents along with their preferred social networking site and an estimate
