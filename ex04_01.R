@@ -43,5 +43,5 @@ hist(times.rankr, col= "beige")
 describe(times.rankr)
 
 # dichotomising - use this wisely and purposefully!
-time.gt1 <- ifelse(sn$Times > 1, 1, 0)
+time.gt1 <- ifelse(sn$Times > 1, 1, 0)    # still have NA for missing values
 time.gt1
